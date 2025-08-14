@@ -7,10 +7,11 @@
 A simple, file-based hotel management system written in C. It helps manage rooms, guests, and bookings from a terminal interface.
 
 ## Features
-- Rooms: add, edit, list, search, and delete
-- Guests: register, update, list, and search
-- Bookings: create, list, check-in/out, cancel
-- Data persistence using CSV files (no external DB)
+- Book a room
+- View Customer Record
+- Delete Customer Record
+- Search Customer Record
+- Edit Record
 - Cross-platform: Linux, macOS, Windows (MinGW)
 
 ## Quick Start
@@ -35,7 +36,7 @@ Data files are saved under data/ by default.
 - src/       C source files (main.c, rooms.c, guests.c, bookings.c, utils.c)
 - include/   Headers (rooms.h, guests.h, bookings.h, utils.h)
 - data/      CSV storage (rooms.csv, guests.csv, bookings.csv)
-- assets/    Images (banner.svg)
+- assets/    Images (image.png)
 - README.md
 
 ## Sample UI
