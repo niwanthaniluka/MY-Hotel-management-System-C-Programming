@@ -1,4 +1,4 @@
-# Hotel Management System (C)
+# The Hotel Management System (C Programming)
 
 ![Hotel Management System banner](image.png)
 
